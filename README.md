@@ -1,4 +1,4 @@
-News App
+# News App
 
 The News Headlines App is an Android application that displays news headlines using RecyclerView and API calls. The app allows users to view the latest news headlines and read the full article by clicking on the news headline.
 
